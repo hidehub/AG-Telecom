@@ -1,0 +1,1 @@
+#echo file | awk -f /gost-ssl/rzs/agregate.awk
